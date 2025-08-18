@@ -116,4 +116,4 @@ void loop() {
 - [Keyes官网](http://www.keyes-robot.com/)
 - [Keyes 天猫旗舰店](https://keyes.tmall.com)
 - [Arduino 巡线机器人教程](https://www.arduino.cc/en/Tutorial/ArduinoToBreadboard)
-- [红外传感器工作原理](https://www.electronics-tutorials.ws/io/io_5.html)
+- [红外传感器工作原理](https://www.electronics-tutorials.ws/io/io_4.html)
