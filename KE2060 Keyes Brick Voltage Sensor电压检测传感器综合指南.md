@@ -36,7 +36,7 @@ KE2060 Keyes Brick Voltage Sensor电压检测传感器是用于检测直流电�
 ## 5. 接口
 - **VCC**：连接到板的电源引脚，通常为5V。
 - **GND**：连接到地线引脚。
-- **AOUT**：模拟输出引脚，将变换后的电压输出，连接至Arduino的模拟引脚（如A3）。
+- **S**：模拟输出引脚，将变换后的电压输出，连接至Arduino的模拟引脚（如A3）。
 
 ---
 
@@ -44,7 +44,7 @@ KE2060 Keyes Brick Voltage Sensor电压检测传感器是用于检测直流电�
 ### 连接示例
 1. 将模块的 VCC 引脚连接到 Arduino 的 5V 引脚。
 2. 将模块的 GND 引脚连接到 Arduino 的 GND 引脚。
-3. 将模块的 AOUT 引脚连接到 Arduino 的模拟引脚（如 A3）。
+3. 将模块的S引脚连接到 Arduino 的模拟引脚（如 A3）。
 
 ![image-20250317164037802](media/image-20250317164037802.png)
 
@@ -88,7 +88,5 @@ void loop() {
 ---
 
 ## 10. 参考链接
-- [Keyes官网](http://www.keyes-robot.com/)
-- [Arduino 官方网站](https://www.arduino.cc)
 - [电压传感器基础知识](https://www.electronics-tutorials.ws/io/io_1.html)
 - [电压分压的原理及应用](https://www.electronics-tutorials.ws/wp-content/uploads/2019/09/voltage-divider.png)

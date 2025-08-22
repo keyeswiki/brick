@@ -108,10 +108,3 @@ void loop() {
 - 避免将模块暴露在极端环境中，以免损坏。
 - 长时间使用时，注意LED的发热情况，避免过热。
 
----
-
-## 11. 参考链接
-- [Keyes官网](http://www.keyes-robot.com/)
-- [Arduino 官方网站](https://www.arduino.cc)  
-
-如有更多疑问，请联系 Keyes 官方客服或加入相关创客社区交流。祝使用愉快！

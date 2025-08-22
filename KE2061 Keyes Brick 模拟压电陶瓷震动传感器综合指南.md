@@ -35,7 +35,7 @@ KE2061 Keyes Brick 模拟压电陶瓷震动传感器是一款用于检测振动�
 ## 5. 接口
 - **VCC**：连接到电源（5V）。
 - **GND**：连接到地。
-- **AOUT**：模拟输出引脚，将传感器输出的模拟电压连接到Arduino的模拟引脚（如A3）。
+- **S**：模拟输出引脚，将传感器输出的模拟电压连接到Arduino的模拟引脚（如A3）。
 
 ---
 
@@ -43,7 +43,7 @@ KE2061 Keyes Brick 模拟压电陶瓷震动传感器是一款用于检测振动�
 ### 连接示例
 1. 将模块的 VCC 引脚连接到 Arduino 的 5V 引脚。
 2. 将模块的 GND 引脚连接到 Arduino 的 GND 引脚。
-3. 将模块的 AOUT 引脚连接到 Arduino 的模拟引脚（如 A3）。
+3. 将模块的 S 引脚连接到 Arduino 的模拟引脚（如 A3）。
 
 ![image-20250317164126687](media/image-20250317164126687.png)
 
@@ -83,6 +83,4 @@ void loop() {
 ---
 
 ## 10. 参考链接
-- [Keyes官网](http://www.keyes-robot.com/)
-- [Arduino 官方网站](https://www.arduino.cc)
 - [压电传感器基础知识](https://www.electronics-tutorials.ws/io/io_1.html)

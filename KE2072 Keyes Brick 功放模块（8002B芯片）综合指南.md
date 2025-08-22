@@ -184,6 +184,5 @@ void loop() {
 ---
 
 ## 10. 参考链接
-- [Keyes官网](http://www.keyes-robot.com/)
 - [8002B 功放芯片数据手册](https://www.datasheetarchive.com/)
 - [Arduino 音频处理教程](https://www.arduino.cc/en/Tutorial/Audio)

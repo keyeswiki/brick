@@ -34,14 +34,14 @@ KE2037 Keyes Brick 5V 单路继电器模块是一款用于控制高电压设备�
 ## 5. 接口
 - **VCC**：连接到电源正极（5V）。
 - **GND**：连接到电源负极（GND）。
-- **IN**：连接到数字引脚，用于控制继电器的开关状态。
+- **S**：连接到数字引脚，用于控制继电器的开关状态。
 
 ### 引脚定义
 | 引脚名称 | 功能描述                     |
 |----------|------------------------------|
 | VCC      | 连接到 Arduino 的 5V 引脚   |
 | GND      | 连接到 Arduino 的 GND 引脚  |
-| IN       | 连接到 Arduino 的数字引脚（如 D3） |
+| S       | 连接到 Arduino 的数字引脚（如 D3） |
 
 ---
 
@@ -51,7 +51,7 @@ KE2037 Keyes Brick 5V 单路继电器模块是一款用于控制高电压设备�
 ### 连接示例
 1. 将模块的 VCC 引脚连接到 Arduino 的 5V 引脚。
 2. 将模块的 GND 引脚连接到 Arduino 的 GND 引脚。
-3. 将模块的 IN 引脚连接到 Arduino 的数字引脚（如 D3）。
+3. 将模块的 S 引脚连接到 Arduino 的数字引脚（如 D3）。
 
 ---
 
@@ -106,8 +106,5 @@ void loop() {
 ---
 
 ## 11. 参考链接
-- [Keyes官网](http://www.keyes-robot.com/) 
-- [Arduino 官方网站](https://www.arduino.cc)  
 - [继电器模块数据手册](https://www.electronicwings.com/public/images/product/relay-module-datasheet.pdf)  
 
-如有更多疑问，请联系 Keyes 官方客服或加入相关创客社区交流。祝使用愉快！

@@ -66,7 +66,21 @@ KE2068模块通过TCS34725芯片利用光电传感器检测环境中的颜色。
 ---
 
 ## 7. 示例代码
+- 下载库文件：[Adafruit_TCS34725](./资料/KE2068.7z)
+
+- 打开Arduino IDE，选择“项目”，选择“导入库”，再选择“添加.ZIP库”。
+
+  ![](./media/image-20250814153624209.png)
+
+- 找到下载资料的存放位置，打开文件夹找到库文件，选择要导入的库，点击“打开”。
+
+  ![](./media/image-20250815103555369.png)
+
+- 安装成功出现的界面。
+  ![](./media/image-20250814153844823.png)
+
 以下是使用Arduino读取TCS34725颜色传感器数据的示例代码：
+
 ```cpp
 #include <Wire.h>
 #include "Adafruit_TCS34725.h"
@@ -101,9 +115,23 @@ void loop() {
 }
 ```
 
----
+**如果安装Adafruit_TCS34725库，上传代码后报错(代码上传成功不用安装)，请按如下安装Wire库。**
+
+- 下载库文件：[Wire](./资料/Wire.7z)
+
+- 打开Arduino IDE，选择“项目”，选择“导入库”，再选择“添加.ZIP库”。
+
+  ![](./media/image-20250814153624209.png)
+
+- 找到下载资料的存放位置，打开文件夹找到库文件，选择要导入的库，点击“打开”。
+
+  ![](./media/image-20250814171711471.png)
+
+- 安装成功出现的界面。
+  ![](./media/image-20250814153844823.png)
 
 ## 8. 实验现象
+
 在成功连接模块并上传代码后，用户可以通过串口监视器观察到实时的RGB值。当传感器对准不同颜色的物体时，RGB值会相应变化，验证模块的颜色检测功能。用户可以通过不同颜色的物体（如红色、绿色、蓝色等）进行测试，观察传感器输出的RGB值变化。
 
 ![image-20250317170154137](media/image-20250317170154137.png)
@@ -124,7 +152,6 @@ void loop() {
 ---
 
 ## 10. 参考链接
-- [Keyes官网](http://www.keyes-robot.com/)
 - [TCS34725 数据手册](https://www.adafruit.com/product/1334)
 - [Arduino I2C 通信教程](https://www.arduino.cc/en/Tutorial/I2C)
 - [Adafruit TCS34725 库文档](https://github.com/adafruit/Adafruit_TCS34725_Library)

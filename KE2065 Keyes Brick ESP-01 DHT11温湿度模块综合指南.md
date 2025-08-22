@@ -165,7 +165,6 @@ void loop() {
 ---
 
 ## 11. 参考链接
-- [Keyes官网](http://www.keyes-robot.com/)
 - [ESP8266-01 数据手册](https://www.electronicwings.com/nodemcu/esp8266-esp-01)
 - [DHT11 温湿度传感器说明](https://www.adafruit.com/product/386)
 - [Arduino DHT11 温湿度模块教程](https://www.arduino.cc/en/Tutorial/DHT)

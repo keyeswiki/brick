@@ -107,9 +107,3 @@ void loop() {
 - 避免将模块暴露在极端环境中，以免损坏。
 - 长时间使用时，注意蜂鸣器的发热情况，避免过热。
 
----
-
-## 11. 参考链接
-- [Keyes官网](http://www.keyes-robot.com/)  
-- [Arduino 官方网站](https://www.arduino.cc)  
-

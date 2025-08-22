@@ -120,7 +120,6 @@ void loop() {
 ---
 
 ## 11. 参考链接
-- [Keyes官网](http://www.keyes-robot.com/)
 - [U-BLOX NEO-7M 数据手册](https://www.u-blox.com/en/product/neo-7-global-navigationsatellite-system-gps-module)
 - [TinyGPS++库](https://github.com/mikalhart/TinyGPSPlus)
 - [Arduino GPS模块教程](https://www.arduino.cc/en/Tutorial/LibraryExamples/TinyGPS)

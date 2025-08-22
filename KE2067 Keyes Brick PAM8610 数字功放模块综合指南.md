@@ -93,6 +93,5 @@ void loop() {
 ---
 
 ## 10. 参考链接
-- [Keyes官网](http://www.keyes-robot.com/)
 - [PAM8610 数据手册](https://www.pam8610.com)
 - [Arduino 音频处理教程](https://www.arduino.cc/en/Tutorial/Audio)

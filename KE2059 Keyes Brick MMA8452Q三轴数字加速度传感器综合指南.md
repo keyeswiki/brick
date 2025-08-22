@@ -57,6 +57,7 @@ MMA8452Q三轴加速度传感器通过微机电系统（MEMS）技术来感知�
 
 ## 7. 示例代码
 以下是用于测试MMA8452Q三轴加速度传感器的示例代码，通过串口输出加速度值：
+
 ```cpp
 #include <Wire.h>
 #include <MMA8452Q.h>
@@ -101,7 +102,5 @@ void loop() {
 ---
 
 ## 10. 参考链接
-- [Keyes官网](http://www.keyes-robot.com/)
-- [Arduino 官方网站](https://www.arduino.cc)
 - [MMA8452Q 数据手册](https://www.nxp.com/docs/en/data-sheet/MMA8452Q.pdf)
 - [GitHub上的MMA8452库](https://github.com/Seeed-Studio/MMA8452Q)

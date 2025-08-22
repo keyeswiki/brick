@@ -34,6 +34,7 @@ OLED是有机发光二极管，又称为有机点激光显示。OLED显示技术
 
 ## 4. 测试代码
 以下是使用Arduino控制OLED显示屏的示例代码：
+
 ```cpp
 #include <SPI.h>
 #include <Wire.h>
@@ -64,11 +65,6 @@ void loop() {
 }
 ```
 
-### 特别注意：
-代码中调用了库文件，上传代码前需要将带有库文件的文件夹复制到 `libraries` 文件夹中。然后重启Arduino IDE，否则无效。
-
-![image-20250317170631489](media/image-20250317170631489.png)
-
 ---
 
 ## 5. 测试结果
@@ -80,7 +76,6 @@ void loop() {
 
 ## 6. 相关资料链接
 
-- [Keyes官网](http://www.keyes-robot.com/)
 - [Adafruit SSD1306 库](https://github.com/adafruit/Adafruit_SSD1306)
 - [Arduino I2C 通信教程](https://www.arduino.cc/en/Reference/Wire)
 - [百度网盘资料](https://pan.baidu.com/s/1eyzizCMiftM7uogfkSrzIg) 提取码：499g

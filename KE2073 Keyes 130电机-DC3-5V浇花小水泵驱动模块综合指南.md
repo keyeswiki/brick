@@ -118,6 +118,5 @@ void loop() {
 ---
 
 ## 8. 参考链接
-- [Keyes官网](http://www.keyes-robot.com/)
 - [HR1124S 电机控制芯片数据手册](https://www.datasheetarchive.com/)
 - [Arduino 控制电机和水泵教程](https://www.arduino.cc/en/Tutorial/HomePage)

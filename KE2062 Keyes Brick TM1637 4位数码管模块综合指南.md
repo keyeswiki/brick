@@ -85,7 +85,5 @@ void loop() {
 ---
 
 ## 9. 参考链接
-- [Keyes官网](http://www.keyes-robot.com/)
-- [Arduino 官方网站](https://www.arduino.cc)
 - [TM1637 数据手册](https://cdn.sparkfun.com/assets/parts/1/0/9/3/3/14562-TM1637_Specification.pdf)
 - [TM1637 示例代码及库](https://github.com/adafruit/Adafruit_TM1637)
