@@ -92,8 +92,3 @@ void loop() {
 - **散热**：在长时间工作时，注意振动马达的温度，避免过热。
 - **连接方式**：确保电源和控制信号连接正确，避免短路。
 
----
-
-## 10. 参考链接
-- [振动马达工作原理](https://www.electronics-tutorials.ws/io/io_6.html)
-- [Arduino 控制振动马达教程](https://www.arduino.cc/en/Tutorial/ArduinoToBreadboard)

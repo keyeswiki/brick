@@ -87,6 +87,3 @@ void loop() {
 
 ---
 
-## 10. 参考链接
-- [电压传感器基础知识](https://www.electronics-tutorials.ws/io/io_1.html)
-- [电压分压的原理及应用](https://www.electronics-tutorials.ws/wp-content/uploads/2019/09/voltage-divider.png)

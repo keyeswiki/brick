@@ -117,9 +117,3 @@ void loop() {
 - **温度范围**：在极端温度环境下使用时，确保模块在其工作温度范围内。
 - **外置天线**：接外置天线时，需去掉模块上的C2电容，以避免冲突。
 
----
-
-## 11. 参考链接
-- [U-BLOX NEO-7M 数据手册](https://www.u-blox.com/en/product/neo-7-global-navigationsatellite-system-gps-module)
-- [TinyGPS++库](https://github.com/mikalhart/TinyGPSPlus)
-- [Arduino GPS模块教程](https://www.arduino.cc/en/Tutorial/LibraryExamples/TinyGPS)

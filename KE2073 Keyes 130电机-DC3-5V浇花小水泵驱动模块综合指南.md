@@ -115,8 +115,3 @@ void loop() {
 - **散热**：在长时间工作时，注意电机的温度，避免过热。
 - **连接方式**：确保电源和控制信号连接正确，避免短路。
 
----
-
-## 8. 参考链接
-- [HR1124S 电机控制芯片数据手册](https://www.datasheetarchive.com/)
-- [Arduino 控制电机和水泵教程](https://www.arduino.cc/en/Tutorial/HomePage)

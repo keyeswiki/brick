@@ -82,8 +82,3 @@ void loop() {
 - 确保所用电压为5V，因此可避免损坏模块。
 - 在多个模块同时使用时，需考虑I2C地址配置，以避免地址冲突。
 
----
-
-## 9. 参考链接
-- [TM1637 数据手册](https://cdn.sparkfun.com/assets/parts/1/0/9/3/3/14562-TM1637_Specification.pdf)
-- [TM1637 示例代码及库](https://github.com/adafruit/Adafruit_TM1637)

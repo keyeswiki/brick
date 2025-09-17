@@ -99,8 +99,3 @@ void loop() {
 - 请使用适当的电压范围（3.3V或5V），避免过载或烧毁传感器。
 - 在实际应用中，确保模块处于稳定的环境中，以获得准确的测量数据。
 
----
-
-## 10. 参考链接
-- [MMA8452Q 数据手册](https://www.nxp.com/docs/en/data-sheet/MMA8452Q.pdf)
-- [GitHub上的MMA8452库](https://github.com/Seeed-Studio/MMA8452Q)

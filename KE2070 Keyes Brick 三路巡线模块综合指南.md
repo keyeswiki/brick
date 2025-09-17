@@ -110,8 +110,3 @@ void loop() {
 - **传感器清洁**：保持传感器的光学窗口清洁，以确保测量准确。
 - **调试**：在调试过程中，可以通过调整黑线和白线的宽度和颜色，观察传感器的响应。
 
----
-
-## 10. 参考链接
-- [Arduino 巡线机器人教程](https://www.arduino.cc/en/Tutorial/ArduinoToBreadboard)
-- [红外传感器工作原理](https://www.electronics-tutorials.ws/io/io_5.html)

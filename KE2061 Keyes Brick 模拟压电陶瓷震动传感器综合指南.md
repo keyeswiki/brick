@@ -80,7 +80,3 @@ void loop() {
 - 确保连接正确，避免短路情况。
 - 不要让传感器暴露于极端环境（如湿气或高温），以免影响其性能。
 
----
-
-## 10. 参考链接
-- [压电传感器基础知识](https://www.electronics-tutorials.ws/io/io_1.html)

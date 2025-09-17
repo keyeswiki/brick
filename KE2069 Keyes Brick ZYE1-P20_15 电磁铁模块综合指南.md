@@ -98,8 +98,3 @@ void loop() {
 - **散热**：在长时间工作时，注意电磁铁的温度，避免过热。
 - **连接方式**：确保电源和控制信号连接正确，避免短路。
 
----
-
-## 10. 参考链接
-- [电磁铁工作原理](https://www.electronics-tutorials.ws/io/io_5.html)
-- [Arduino 控制电磁铁教程](https://www.arduino.cc/en/Tutorial/ArduinoToBreadboard)

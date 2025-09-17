@@ -151,7 +151,3 @@ void loop() {
 
 ---
 
-## 10. 参考链接
-- [TCS34725 数据手册](https://www.adafruit.com/product/1334)
-- [Arduino I2C 通信教程](https://www.arduino.cc/en/Tutorial/I2C)
-- [Adafruit TCS34725 库文档](https://github.com/adafruit/Adafruit_TCS34725_Library)

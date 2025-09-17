@@ -103,8 +103,5 @@ void loop() {
 - 继电器控制的设备电压应在额定范围内，避免损坏模块。
 - 避免将模块暴露在极端环境中，以免损坏。
 
----
 
-## 11. 参考链接
-- [继电器模块数据手册](https://www.electronicwings.com/public/images/product/relay-module-datasheet.pdf)  
 

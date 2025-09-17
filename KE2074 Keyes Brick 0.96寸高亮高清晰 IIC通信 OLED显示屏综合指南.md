@@ -76,6 +76,4 @@ void loop() {
 
 ## 6. 相关资料链接
 
-- [Adafruit SSD1306 库](https://github.com/adafruit/Adafruit_SSD1306)
-- [Arduino I2C 通信教程](https://www.arduino.cc/en/Reference/Wire)
 - [百度网盘资料](https://pan.baidu.com/s/1eyzizCMiftM7uogfkSrzIg) 提取码：499g

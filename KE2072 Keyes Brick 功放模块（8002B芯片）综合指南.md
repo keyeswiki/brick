@@ -181,8 +181,3 @@ void loop() {
 - **散热**：在高功率输出时，确保模块有良好的散热条件。
 - **连接方式**：确保音频信号源和喇叭连接正确，避免短路。
 
----
-
-## 10. 参考链接
-- [8002B 功放芯片数据手册](https://www.datasheetarchive.com/)
-- [Arduino 音频处理教程](https://www.arduino.cc/en/Tutorial/Audio)

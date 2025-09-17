@@ -90,8 +90,3 @@ void loop() {
 - **散热**：在高功率输出时，确保模块有良好的散热条件。
 - **静音功能**：使用静音功能时，确保模块处于安全状态，避免损坏扬声器。
 
----
-
-## 10. 参考链接
-- [PAM8610 数据手册](https://www.pam8610.com)
-- [Arduino 音频处理教程](https://www.arduino.cc/en/Tutorial/Audio)
