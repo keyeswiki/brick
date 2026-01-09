@@ -72,7 +72,7 @@ void loop() {
   Serial.println(buttonState); // 输出按键状态
 
   // 根据按键状态控制LED
-  if (buttonState == HIGH) { // 按键被按下
+  if (buttonState == HIGH) { // 按键被松开
     digitalWrite(ledPin, HIGH); // 点亮LED
   } else {
     digitalWrite(ledPin, LOW); // 熄灭LED
