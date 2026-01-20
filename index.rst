@@ -50,6 +50,7 @@
    KE2044 Keyes Brick MQ-135空气质量传感器综合指南.md
    KE2045 Keyes Brick TEMT6000光线传感器综合指南.md
    KE2046 Keyes Brick SHT10传感器综合指南.md
+   KE2047 keyes brick 巡线传感器.md
    KE2048 Keyes Brick 光折断传感器综合指南.md
    KE2049 Keyes Brick 魔术光杯传感器综合指南.md
    KE2050 Keyes Brick 3231时钟模块综合指南.md
