@@ -72,7 +72,7 @@ void loop() {
   Serial.println(sensorValue); // 输出传感器值
 
   // 根据传感器值控制LED
-  if (sensorValue == HIGH) { // 检测到磁场
+  if (sensorValue == LOW) { // 检测到磁场
     digitalWrite(ledPin, HIGH); // 点亮LED
   } else {
     digitalWrite(ledPin, LOW); // 熄灭LED
