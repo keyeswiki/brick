@@ -57,8 +57,8 @@ HC-SR04超声波传感器通过发射超声波脉冲并接收返回信号来测�
 ### 连接示例
 1. 将模块的 VCC 引脚连接到 Arduino 的 5V 引脚。
 2. 将模块的 GND 引脚连接到 Arduino 的 GND 引脚。
-3. 将模块的 TRIG 引脚连接到 Arduino 的数字引脚（例如 D9）。
-4. 将模块的 ECHO 引脚连接到 Arduino 的数字引脚（例如 D10）。
+3. 将模块的 TRIG 引脚连接到 Arduino 的数字引脚。
+4. 将模块的 ECHO 引脚连接到 Arduino 的数字引脚。
 
 ---
 
